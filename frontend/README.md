@@ -108,3 +108,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 1. npm install react-bootstrap bootstrap
 2. update App.js
+
+### Create Product and Rating Component
+
+1. create Rating component
+2. create product component
+3. Use Rating component in Product component
